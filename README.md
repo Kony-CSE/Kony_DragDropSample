@@ -1,5 +1,5 @@
 # Kony_DragDropSample
-Application used to interchange the widgets from one posito
+Application showcases to interchange the widgets from one position to another position.
 
 # Purpose
 
