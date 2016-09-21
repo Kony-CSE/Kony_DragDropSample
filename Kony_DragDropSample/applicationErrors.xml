@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project name="DragDrop" path="D:\WorkSpaces\Workspace6.5\Workspace6.5Latest\DragDrop">
+    <channel type="mobile"/>
+    <channel type="tablet"/>
+    <channel type="desktop"/>
+    <keywordSkinID>titleBar</keywordSkinID>
+</project>
